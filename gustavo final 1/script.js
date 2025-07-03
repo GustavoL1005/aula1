@@ -52,4 +52,4 @@ function tiraPalavrasRuins(palavras) {
         }
     }
     return palavrasBoas;
-}export const PALAVRAS_RUINS = new Set
+}
